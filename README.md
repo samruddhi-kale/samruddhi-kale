@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samruddhi Kale</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avipingale&label=Profile%20views&color=0e75b6&style=flat" alt="avipingale" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samruddhi-kale&label=Profile%20views&color=0e75b6&style=flat" alt="samruddhi-kale" /> </p>
+
 
 - 🌱 I’m currently learning **Full Stack Devlopment**
 
