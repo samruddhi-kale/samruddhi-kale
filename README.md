@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://samruddhi-kale.github.io/my-Portfolio/](https://samruddhi-kale.github.io/my-Portfolio/)
 
-- 📫 How to reach me **avinashpingale66@gmail.com**
+- 📫 How to reach me **samruddhikale2003@gmail.com**
 
 - 📄 Know about my experiences [https://samruddhi-kale.github.io/my-Portfolio/](https://samruddhi-kale.github.io/my-Portfolio/)
 
